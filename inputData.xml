@@ -1,0 +1,5 @@
+<customer>
+    <name>John Doe</name>
+    <accountNumber>123456</accountNumber>
+    <balance>1000</balance>
+</customer>
